@@ -8,8 +8,8 @@ On each of the following m lines, three numbers, x, y and c, describing an edge:
 
 **Operations:**
 
-**1.** get the number of vertices;
-**2.** given two vertices, find out whether there is an edge from the first one to the second one;
-**3.** get the in degree or the out degree of a specified vertex;
-**4.** iterate through the set of inbound or outbound edges of a specified vertex.For each inbound/outbound edge, the iterator shall provide origin/target vertex.
-**5.** retrieve or modify the information (the integer) attached to a specified edge.
+**1.** get the number of vertices; <br />
+**2.** given two vertices, find out whether there is an edge from the first one to the second one; <br />
+**3.** get the in degree or the out degree of a specified vertex; <br />
+**4.** iterate through the set of inbound or outbound edges of a specified vertex.For each inbound/outbound edge, the iterator shall provide origin/target vertex. <br />
+**5.** retrieve or modify the information (the integer) attached to a specified edge. <br />

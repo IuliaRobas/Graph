@@ -1,6 +1,6 @@
 # Graph
 
-**Text file format:**
+**Text file format:** <br />
 The graph will be read from a text file having the following format:
 
 On the first line, the number n of vertices and the number m of edges;
